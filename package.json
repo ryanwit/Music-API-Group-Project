@@ -1,0 +1,23 @@
+{
+  "name": "Music-API-Group-Project",
+  "version": "1.0.0",
+  "description": "* [Deployed Project](https://noracurcio.github.io/Music-API-Group-Project/) * [Repository](https://github.com/noracurcio/Music-API-Group-Project.git) * ![Screenshot Here](images/overview.png)",
+  "main": "carousel.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanwit/Music-API-Group-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://ryanwit.github.io/Music-API-Group-Project/",
+  "bugs": {
+    "url": "https://github.com/ryanwit/Music-API-Group-Project/issues"
+  },
+    "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
